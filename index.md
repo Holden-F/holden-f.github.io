@@ -2,13 +2,12 @@
 title: Home
 layout: home
 ---
- ![A picture of a smiling whitw man in a light blue collared shirt. He is wearing a silver and blue tie.](profile.png "Holden Ford") 
-
+ 
 ## About Me
-
+ ![A picture of a smiling whitw man in a light blue collared shirt. He is wearing a silver and blue tie.](profile.png "Holden Ford")
 Hello, my name is Holden Ford and I am 24 years old. 
 
-I have been recently diagnosed with autism.
+I enjoy being outdoors a lot, especially in the context of camping or hiking
 
 ## Education
 
@@ -27,7 +26,9 @@ My career is only just beginning! I am fresh on the scene from graduation and ea
 
 In the past I have worked several jobs across all different types. I have worked service jobs, research jobs and most recently within education.
 
-My Full Resume can be [found here](https://github.com/Holden-F/portfolio/blob/7a8f5c5c0f95f000e1d83510942aed4d94f67483/Ford%20Resume%202023.pdf)
+My ultimate goal in life is to be a park ranger. I enjoy teaching people about the outdoors almost as much as I enjoy being in them.
+
+A full CV can be [found here.](https://github.com/Holden-F/portfolio/blob/7a8f5c5c0f95f000e1d83510942aed4d94f67483/Ford%20Resume%202023.pdf)
 
 ## Work Samples
 | [DEM of Vietnamese City of Kon Tum.](DEM_FINAL.pdf) |
