@@ -19,7 +19,7 @@ Other than that, you're free to customize sites that you create with this templa
 To get started with creating a site, just click "[use this template]"!
 
 ## Work Examples
-| ![DEM of Vietnamese City of Kon Tum.](DEM_FINAL.pdf "Kon Tum DEM") |
+| [DEM of Vietnamese City of Kon Tum.](DEM_FINAL.pdf "Kon Tum DEM") |
 |:--:|
 | *A DEM of the Vietnamese City, Kon Tum. Specifically it was created to highlight River meanders.* |
 
