@@ -31,6 +31,7 @@ My ultimate goal in life is to be a park ranger. I enjoy teaching people about t
 A full CV can be [found here.](https://github.com/Holden-F/portfolio/blob/7a8f5c5c0f95f000e1d83510942aed4d94f67483/Ford%20Resume%202023.pdf)
 
 ## Work Samples
+
 | [DEM of Vietnamese City of Kon Tum.](DEM_FINAL.pdf) |
 |:--:|
 | *A DEM of the Vietnamese City, Kon Tum. Specifically it was created to highlight River meanders.* |
