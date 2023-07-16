@@ -9,6 +9,8 @@ Hello, my name is Holden Ford and I am 24 years old.
 
 I enjoy being outdoors a lot, especially in the context of camping or hiking
 
+I love writing and drawing. I like Lord of the Rings and Star Trek and can talk endlessly about them. I play DnD in my spare time with my friends.
+
 ## Education
 
 I attended Orange Coast College for my associates in Natural Science and to prepare me for a transfer to a full university.
