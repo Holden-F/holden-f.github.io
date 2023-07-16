@@ -45,6 +45,21 @@ A full CV can be [found here.](https://github.com/Holden-F/portfolio/blob/7a8f5c
 | *A map of deforestation in Vietnam around Kon Tum City. It was generated using NDVI.* |
 
 
+#### Contact Me:
+
+Phone: [1-(714)-595-3445](tel:17145953445)
+
+Emails: 
+1. [rmford100@gmail.com](mailto:rmford100@gmail.com)
+1. [rholdenford@gmail.com](mailto:rholdenford@gmail.com)
+1. [holden.ford@student.csulb.edu](mailto:holden.ford@student.csulb.edu)
+
+Linkedin: [rachel-holden-ford](https://www.linkedin.com/in/rachel-holden-ford/)
+
+Instagram: [rholdenford](https://www.instagram.com/rholdenford/)
+
+github: [holden-f](https://github.com/Holden-F)
+
 ----
 
 
