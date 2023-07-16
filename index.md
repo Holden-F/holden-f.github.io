@@ -2,17 +2,30 @@
 title: Home
 layout: home
 ---
+ ![A picture of a smiling whitw man in a light blue collared shirt. He is wearing a silver and blue tie.](profile.png "Holden Ford") 
+
 ## About Me
 
-blah blah elevator pitch
+Hello, my name is Holden Ford and I am 24 years old. 
 
- ![A picture of a smiling whitw man in a light blue collared shirt. He is wearing a silver and blue tie.](profile.png "Holden Ford") 
+I have been recently diagnosed with autism.
 
 ## Education
 
+I attended Orange Coast College for my associates in Natural Science and to prepare me for a transfer to a full university.
+This is where I really fell in love with geology. 
+
+Afterwards, I transferred to California State University, Long Beach (CSULB) to pursue a degree in geology. 
+
+Finally, I am currently in the MS program from Geographic Information Science. I am excited to put these skills to use in geology. '
+
+One day, I hope to be able to pursue my doctorate in geology. 
+
 ## Career
 
-To get started with creating a site, just click "[use this template]"!
+My career is only just beginning! I am fresh on the scene from graduation and eager to be employed full time. 
+
+In the past I have worked several jobs across all different types. I have worked service jobs, research jobs and most recently within education.
 
 My Full Resume can be [found here](https://github.com/Holden-F/portfolio/blob/7a8f5c5c0f95f000e1d83510942aed4d94f67483/Ford%20Resume%202023.pdf)
 
