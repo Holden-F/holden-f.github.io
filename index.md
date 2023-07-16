@@ -19,9 +19,14 @@ Other than that, you're free to customize sites that you create with this templa
 To get started with creating a site, just click "[use this template]"!
 
 ## Work Examples
-| [DEM of Vietnamese City of Kon Tum.](DEM_FINAL.pdf "Kon Tum DEM") |
+| [DEM of Vietnamese City of Kon Tum.](DEM_FINAL.pdf) |
 |:--:|
 | *A DEM of the Vietnamese City, Kon Tum. Specifically it was created to highlight River meanders.* |
+
+| [Deforestation in Vietnam.](Deforestation2.pdf) |
+|:--:|
+| *A map of deforestation in Vietnam around Kon Tum City. It was generated using NDVI.* |
+
 
 ----
 
