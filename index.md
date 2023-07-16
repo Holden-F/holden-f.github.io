@@ -6,13 +6,15 @@ layout: home
 
 blah blah elevator pitch
 
-picture of me
+ ![A picture of a smiling whitw man in a light blue collared shirt. He is wearing a silver and blue tie.](profile.png "Holden Ford") 
 
 ## Education
 
 ## Career
 
 To get started with creating a site, just click "[use this template]"!
+
+My Full Resume can be [found here](https://github.com/Holden-F/portfolio/blob/7a8f5c5c0f95f000e1d83510942aed4d94f67483/Ford%20Resume%202023.pdf)
 
 ## Work Samples
 | [DEM of Vietnamese City of Kon Tum.](DEM_FINAL.pdf) |
