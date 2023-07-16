@@ -4,10 +4,12 @@ layout: home
 ---
  
 ## About Me
+
  ![A picture of a smiling whitw man in a light blue collared shirt. He is wearing a silver and blue tie.](profile.png "Holden Ford")
+
 Hello, my name is Holden Ford and I am 24 years old. 
 
-I enjoy being outdoors a lot, especially in the context of camping or hiking
+I enjoy being outdoors a lot, especially in the context of camping or hiking. I love to learn new things about the world around me.
 
 I love writing and drawing. I like Lord of the Rings and Star Trek and can talk endlessly about them. I play DnD in my spare time with my friends.
 
