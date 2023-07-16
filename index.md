@@ -5,7 +5,7 @@ layout: home
  
 ## About Me
 
- ![A picture of a smiling whitw man in a light blue collared shirt. He is wearing a silver and blue tie.](profile.png "Holden Ford")
+ ![A picture of a smiling white man in a light blue collared shirt. He is wearing a silver and blue tie.](profile.png "Holden Ford")
 
 Hello, my name is Holden Ford and I am 24 years old. 
 
