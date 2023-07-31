@@ -36,12 +36,14 @@ A full CV can be [found here.](https://github.com/Holden-F/portfolio/blob/7a8f5c
 
 ## Work Samples
 
-| [DEM of Vietnamese City of Kon Tum.](DEM_FINAL.pdf) |
+|![DEM of Kon Tum](Kontumcity.png "Kon Tum City") |
 |:--:|
+|[DEM of Vietnamese City of Kon Tum.](DEM_FINAL.pdf) |
 | *A DEM of the Vietnamese City, Kon Tum. Specifically it was created to highlight River meanders.* |
 
-| [Deforestation in Vietnam.](Deforestation2.pdf) |
+|![A map of vegetation change in Vietnam](deforestation.png "Deforestation Map") |
 |:--:|
+| [Deforestation in Vietnam.](Deforestation2.pdf) |
 | *A map of deforestation in Vietnam around Kon Tum City. It was generated using NDVI.* |
 
 
