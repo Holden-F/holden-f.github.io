@@ -20,15 +20,17 @@ This is where I really fell in love with geology.
 
 Afterwards, I transferred to California State University, Long Beach (CSULB) to pursue a degree in geology. 
 
-Finally, I am currently in the MS program from Geographic Information Science. I am excited to put these skills to use in geology. '
+I have recently graduated from the MS program in Geographic Information Science at CSULB. I am excited to put these skills to use in geology. '
 
 One day, I hope to be able to pursue my doctorate in geology. 
 
 ## Career
 
-My career is only just beginning! I am fresh on the scene from graduation and eager to be employed full time. 
+My career is only just beginning! I am fresh on the scene from graduation and hungry for opportunity. 
 
-In the past I have worked several jobs across all different types. I have worked service jobs, research jobs and most recently within education.
+In the past I have worked several jobs across all different types. I have worked service jobs, research jobs and recently within education.
+
+I am currently employed at VCS Environmental as a construction monitor (both archaeologically and paleontologically).
 
 My ultimate goal in life is to be a park ranger. I enjoy teaching people about the outdoors almost as much as I enjoy being in them.
 
